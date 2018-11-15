@@ -8,8 +8,8 @@ env:
     DOCKER_FILE: "Dockerfile"
     
     # Username of dockerhub 
-    DOCKERHUB_USER: "nxpml"
-    DOCKERHUB_PASSWD: "nxpmldemo"
+    DOCKERHUB_USER: "nxpfff"
+    DOCKERHUB_PASSWD: "b36666"
 
 phases:
   install:
